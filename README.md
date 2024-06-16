@@ -20,18 +20,4 @@ Hybrid Model: Combines collaborative and content-based methods to enhance recomm
 
 
 
-A project for Detecting Credit Card Fraud using machine learning techniques. The objective is to classify transactions as fraudulent or non-fraudulent based on the provided dataset.
-The dataset used for this project is the Credit Card Fraud Detection Dataset available on Kaggle.
-
-FEATURES:
-
-V1-V28: Result of a PCA transformation.
-Amount: Transaction amount.
-Class: 1 for fraudulent transactions, 0 otherwise.
-
-MODEL:
-
-The project uses a combination of supervised machine learning algorithms to detect fraudulent transactions. The main models explored is:
-
-Logistic Regression
 
